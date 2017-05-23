@@ -23,7 +23,7 @@ p {
   font-family: sans-serif;
 }
 
-ul {
+ul, ol {
 font-family: serif;
   line-height: 30px;
 }
