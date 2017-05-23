@@ -1,10 +1,22 @@
+h1, h2 {
+  line-height: 50px;
+}
+
 h1 {
-  color: blue;
+  color: red;
+  text-align: center;
+  font-style: bold;
 }
 
 h2 {
+  color: dodgerblue;
   font-style: italic;
   text-align: center;
+}
+
+p, ul {
+  font-weight: 100;
+  font-size: 15px;
 }
 
 p {
@@ -12,6 +24,6 @@ p {
 }
 
 ul {
-  font-size: 20px;
+font-family: serif;
   line-height: 30px;
 }
